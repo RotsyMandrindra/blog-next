@@ -20,6 +20,27 @@ const Navbar = () => {
           <li>
             <Link href="/blog/3">Blog 3</Link>
           </li>
+          <li>
+            <Link href="/blog/4">Blog 4</Link>
+          </li>
+          <li>
+            <Link href="/blog/5">Blog 5</Link>
+          </li>
+          <li>
+            <Link href="/blog/6">Blog 6</Link>
+          </li>
+          <li>
+            <Link href="/blog/7">Blog 7</Link>
+          </li>
+          <li>
+            <Link href="/blog/8">Blog 8</Link>
+          </li>
+          <li>
+            <Link href="/blog/9">Blog 9</Link>
+          </li>
+          <li>
+            <Link href="/blog/10">Blog 10</Link>
+          </li>
         </ul>
       </div>
     </div>
